@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /logs
 /project/project
 /project/target
@@ -8,3 +9,22 @@
 /.settings
 /db.h2.db
 /testdb.h2.db
+=======
+# Ignore Play! working directory #
+bin/
+/db
+.eclipse
+/lib/
+/logs/
+/modules
+/project/project
+/project/target
+/target
+tmp/
+test-result
+server.pid
+*.iml
+*.eml
+/dist/
+.cache
+>>>>>>> 347af0ca8b9cb452dd4116e7518da7b7aa55b127
